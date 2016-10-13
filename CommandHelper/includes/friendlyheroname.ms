@@ -272,6 +272,9 @@
 	else if(@class == 'venom'){
         @fname = '§0V§8e§fn§8o§0m'
     }
+    else if(@class == 'lasher'){
+        @fname = '§3L§aa§3s§ah§3e§ar'
+    }
     else if(@class == 'atom'){
         @fname = '§4A§7t§8o§4m'
     }
