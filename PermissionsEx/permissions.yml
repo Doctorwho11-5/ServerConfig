@@ -2948,6 +2948,8 @@ groups:
     worlds:
       '1_9':
         permissions:
+        - power.wallclimb
+        - ch.alias.slingweb
         - ch.alias.venom
         - -essentials.protect.damage.fall
         - ch.alias.web
@@ -3372,7 +3374,7 @@ groups:
     worlds:
       '1_9':
         permissions:
-        - powers.wallclimb
+        - power.wallclimb
         - ch.alias.slingweb
         - -essentials.protect.damage.fall
         - ch.alias.peterparker
@@ -3493,6 +3495,8 @@ groups:
         permissions:
         - -essentials.protect.damage.fall
         - ch.alias.blackspiderman
+        - ch.alias.slingweb
+        - power.wallclimb
         - ch.alias.web
         - ch.alias.jump0
         - ch.alias.jump1
